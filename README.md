@@ -1,2 +1,0 @@
-# CalculadoraOnline
-Paguina Web
